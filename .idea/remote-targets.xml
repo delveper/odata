@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <option name="projectDefaultTargetUuid" value="7e8c8497-8e41-4727-bb3e-cb63625dd1ae" />
+    <targets>
+      <target name="WSL - Debian" type="wsl" uuid="7e8c8497-8e41-4727-bb3e-cb63625dd1ae">
+        <config>
+          <option name="distributionMsId" value="Debian" />
+          <option name="projectRootOnTarget" value="/mnt/c/Program Files/JetBrains/GoLand 2022.2.4/jbr/bin&#10;/odata" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config>
+            <option name="goPath" value="/mnt/e/go" />
+            <option name="goRoot" value="/usr/local/go/bin/go" />
+            <option name="goVersion" value="go1.19.4 linux/amd64" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>
